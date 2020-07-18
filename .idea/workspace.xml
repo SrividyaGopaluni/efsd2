@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9cd804d6-e82f-4708-9592-c4c152ad70d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/efs/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <updated>1594605457753</updated>
       <workItem from="1594605462206" duration="2390000" />
       <workItem from="1594668930817" duration="9611000" />
-      <workItem from="1594761611230" duration="18633000" />
+      <workItem from="1594761611230" duration="19216000" />
     </task>
     <servers />
   </component>
